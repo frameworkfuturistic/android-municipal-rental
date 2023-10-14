@@ -1,0 +1,3 @@
+Keystore pass: Khujli420#
+Key Alias: Key0
+Password: 123456
